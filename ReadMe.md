@@ -16,3 +16,7 @@
 ![badge-2](https://img.shields.io/badge/Shopify-CSS-green)
 
 ![video](https://youtu.be/Rk2r5aPprhQ)
+
+
+https://user-images.githubusercontent.com/69257882/189403899-3e3a3c70-78b0-4ab2-a762-6bdd91504a97.mp4
+
